@@ -2,6 +2,10 @@
 
 A complete e-commerce website for selling toys developed with HTML5, CSS3, JavaScript, PHP and MySQL.
 
+## 🖼️ Preview
+
+![ToyKids Homepage](assets/image.png)
+
 ## 📋 Description
 
 ToyKids is an e-commerce platform allowing customers to browse, select and order toys online. The site includes a cookie-based shopping cart system (no authentication required) and a complete admin panel to manage orders, products, customers and messages.
